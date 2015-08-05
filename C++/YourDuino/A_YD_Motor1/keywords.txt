@@ -1,0 +1,6 @@
+YD_MotorDriver1	KEYWORD1
+init		KEYWORD2
+Motor1Speed	KEYWORD2
+Motor2Speed	KEYWORD2
+Motor1Brake	KEYWORD2
+Motor2Brake	KEYWORD2

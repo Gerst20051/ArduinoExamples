@@ -1,0 +1,6 @@
+YD_Pan_Tilt		KEYWORD1
+init			KEYWORD2
+panPosition		KEYWORD2
+tiltPosition		KEYWORD2
+panSpeed		KEYWORD2
+tiltSpeed		KEYWORD2

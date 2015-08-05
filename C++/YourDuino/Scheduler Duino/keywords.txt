@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map For Sprite
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Scheduler	KEYWORD1
+Task	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setTimeout	KEYWORD2
+setInterval	KEYWORD2
+clearTimeout	KEYWORD2
+clearInterval	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+

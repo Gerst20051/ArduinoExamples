@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/49/trunk/AdvancedSerial/clientapi/dotnet
+END
+dotnet.suo
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/48/trunk/AdvancedSerial/clientapi/dotnet/dotnet.suo
+END
+app.config
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/48/trunk/AdvancedSerial/clientapi/dotnet/app.config
+END
+SerialProtocol.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/49/trunk/AdvancedSerial/clientapi/dotnet/SerialProtocol.cs
+END
+AdvancedSerialClient.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/49/trunk/AdvancedSerial/clientapi/dotnet/AdvancedSerialClient.cs
+END
+dotnet.sln
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/48/trunk/AdvancedSerial/clientapi/dotnet/dotnet.sln
+END
+dotnet.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/48/trunk/AdvancedSerial/clientapi/dotnet/dotnet.csproj
+END
